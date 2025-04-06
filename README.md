@@ -1,1 +1,1 @@
- a dairy
+ a diary
